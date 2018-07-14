@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{BD646782-EF6C-4EDD-B8B4-D5B51C20AA1A}</ProjectGuid>
+    <ProjectGuid>{E4F26A4F-767C-47A7-8C47-2A6F269B9AEA}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>SPOJ</RootNamespace>
+    <RootNamespace>ID439</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,7 +151,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SPOJ.cpp" />
+    <ClCompile Include="ID_439.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
